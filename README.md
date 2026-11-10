@@ -1,5 +1,7 @@
 # Echo Swarm, Clearing Lattice, and Causal Coil
+
 [![CC0-1.0](https://img.shields.io/github/license/vandermerwewaj/The-Compact-Framework)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 A practical model for seeing internal states, relational interference, and accumulating consequences more clearly.
 
 ## Basic Concept
